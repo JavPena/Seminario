@@ -1,0 +1,2 @@
+intensification "--intensification " i (0, 10)
+diversification "--diversification " i (0, 10)
